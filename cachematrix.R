@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These two functions will take a matrix and return the inverse of it either from a previously cached value or 
+## after computing the inverse and adding it to a cache for subsequent calls
 
 ## Takes in a mtrix and return a list with 4 functions :
 ## getter and setter for the matrix, and getter and setter for inverse of the matrix
